@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=srf-27)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srf-27/srf-27/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srf-27/srf-27/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srf-27/srf-27/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
